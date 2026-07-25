@@ -1,0 +1,151 @@
+Transaction_Id,Customer_Id,Customer_Age,Gender,Product_Category,Purchase_Amount,Payment_Method,Transaction_Date,Satisfaction_Score
+TXN-1000,CUST-106,30,Male,Unknown,150.5,Paypal,2023-02-20,1
+TXN-1001,CUST-119,30,Male,Electronics,150.5,Paypal,2023-02-20,4
+TXN-1002,CUST-128,30,Female,Clothing,89.99,Cash,2023-01-15,1
+TXN-1003,CUST-114,30,Female,Electronics,150.5,Credit Card,2023-01-15,4
+TXN-1004,CUST-110,34,Unknown,Unknown,89.99,Credit Card,2023-01-15,3
+TXN-1005,CUST-107,25,Female,Electronics,150.5,Credit Card,2023-01-15,1
+TXN-1006,CUST-128,30,Female,Clothing,45.0,Credit Card,2023-02-20,2
+TXN-1007,CUST-120,30,Unknown,Electronics,150.5,Credit Card,2023-02-20,3
+TXN-1008,CUST-106,30,Male,Clothing,1200.0,Unknown,2023-01-15,3
+TXN-1009,CUST-125,52,Female,Home & Kitchen,150.5,Paypal,2023-01-15,5
+TXN-1010,CUST-118,45,Male,Unknown,150.5,Credit Card,2023-01-15,3
+TXN-1011,CUST-122,30,Female,Unknown,1200.0,Paypal,2023-03-10,3
+TXN-1012,CUST-110,30,Male,Electronics,150.5,Cash,2023-01-15,3
+TXN-1013,CUST-110,45,Female,Clothing,150.5,Credit Card,2023-01-15,4
+TXN-1014,CUST-123,25,Male,Clothing,1200.0,Cash,2023-01-15,5
+TXN-1015,CUST-120,45,Unknown,Electronics,150.5,Cash,2023-01-15,3
+TXN-1016,CUST-103,52,Female,Electronics,45.0,Unknown,2023-01-15,3
+TXN-1017,CUST-107,45,Female,Electronics,45.0,Credit Card,2023-01-15,1
+TXN-1018,CUST-123,25,Male,Electronics,150.5,Cash,2023-01-15,3
+TXN-1019,CUST-102,52,Male,Unknown,150.5,Cash,2023-01-15,2
+TXN-1020,CUST-121,30,Male,Electronics,150.5,Credit Card,2023-03-10,2
+TXN-1021,CUST-120,30,Female,Home & Kitchen,150.5,Credit Card,2023-01-15,5
+TXN-1022,CUST-101,30,Male,Home & Kitchen,150.5,Cash,2023-01-15,3
+TXN-1023,CUST-123,45,Male,Electronics,45.0,Credit Card,2023-01-15,2
+TXN-1024,CUST-111,30,Unknown,Clothing,150.5,Cash,2023-01-15,4
+TXN-1025,CUST-129,25,Unknown,Clothing,150.5,Cash,2023-01-15,2
+TXN-1026,CUST-105,19,Unknown,Electronics,89.99,Unknown,2023-01-15,5
+TXN-1027,CUST-101,19,Unknown,Clothing,150.5,Credit Card,2023-01-15,2
+TXN-1028,CUST-127,52,Unknown,Unknown,1200.0,Cash,2023-02-20,4
+TXN-1029,CUST-120,30,Unknown,Unknown,89.99,Paypal,2023-01-15,1
+TXN-1030,CUST-100,30,Female,Clothing,150.5,Credit Card,2023-01-15,3
+TXN-1031,CUST-111,19,Male,Home & Kitchen,45.0,Credit Card,2023-01-15,5
+TXN-1032,CUST-125,30,Unknown,Clothing,299.99,Credit Card,2023-01-15,1
+TXN-1033,CUST-121,45,Male,Unknown,89.99,Unknown,2023-01-15,1
+TXN-1034,CUST-128,30,Male,Electronics,150.5,Cash,2023-01-15,1
+TXN-1035,CUST-111,34,Female,Clothing,150.5,Unknown,2023-02-20,3
+TXN-1036,CUST-124,30,Female,Electronics,45.0,Cash,2023-01-15,3
+TXN-1037,CUST-116,52,Unknown,Electronics,150.5,Unknown,2023-01-15,3
+TXN-1038,CUST-126,30,Male,Clothing,150.5,Unknown,2023-01-15,3
+TXN-1039,CUST-126,19,Female,Home & Kitchen,150.5,Paypal,2023-03-10,3
+TXN-1040,CUST-109,30,Male,Electronics,45.0,Unknown,2023-01-15,3
+TXN-1041,CUST-127,30,Female,Clothing,150.5,Credit Card,2023-01-15,3
+TXN-1042,CUST-127,30,Female,Home & Kitchen,150.5,Paypal,2023-02-20,1
+TXN-1043,CUST-115,25,Female,Clothing,150.5,Unknown,2023-01-15,5
+TXN-1044,CUST-114,25,Male,Clothing,89.99,Credit Card,2023-03-10,3
+TXN-1045,CUST-129,30,Female,Unknown,150.5,Credit Card,2023-01-15,4
+TXN-1046,CUST-129,30,Male,Electronics,89.99,Credit Card,2023-01-15,4
+TXN-1047,CUST-114,19,Male,Home & Kitchen,150.5,Credit Card,2023-01-15,2
+TXN-1048,CUST-129,30,Male,Home & Kitchen,150.5,Paypal,2023-03-10,3
+TXN-1049,CUST-118,45,Female,Home & Kitchen,299.99,Unknown,2023-01-15,5
+TXN-1050,CUST-111,30,Female,Clothing,299.99,Unknown,2023-01-15,3
+TXN-1051,CUST-122,30,Unknown,Clothing,89.99,Credit Card,2023-01-15,1
+TXN-1052,CUST-119,30,Female,Clothing,1200.0,Credit Card,2023-01-15,2
+TXN-1053,CUST-124,30,Unknown,Electronics,89.99,Credit Card,2023-01-15,4
+TXN-1054,CUST-102,52,Female,Electronics,299.99,Credit Card,2023-02-20,3
+TXN-1055,CUST-104,25,Unknown,Clothing,150.5,Paypal,2023-02-20,3
+TXN-1056,CUST-118,45,Male,Unknown,45.0,Unknown,2023-02-20,1
+TXN-1057,CUST-106,30,Female,Clothing,89.99,Credit Card,2023-01-15,3
+TXN-1058,CUST-120,30,Male,Electronics,150.5,Credit Card,2023-02-20,4
+TXN-1059,CUST-108,30,Female,Home & Kitchen,45.0,Paypal,2023-03-10,5
+TXN-1060,CUST-106,30,Female,Home & Kitchen,45.0,Paypal,2023-01-15,3
+TXN-1061,CUST-117,19,Male,Clothing,299.99,Credit Card,2023-01-15,1
+TXN-1062,CUST-103,25,Unknown,Unknown,89.99,Unknown,2023-01-15,5
+TXN-1063,CUST-124,25,Female,Electronics,150.5,Credit Card,2023-01-15,3
+TXN-1064,CUST-127,19,Male,Electronics,150.5,Credit Card,2023-02-20,4
+TXN-1065,CUST-113,30,Female,Home & Kitchen,299.99,Credit Card,2023-02-20,3
+TXN-1066,CUST-117,34,Male,Clothing,299.99,Paypal,2023-01-15,3
+TXN-1067,CUST-125,45,Female,Clothing,150.5,Credit Card,2023-01-15,5
+TXN-1068,CUST-108,25,Female,Electronics,150.5,Unknown,2023-03-10,5
+TXN-1069,CUST-125,52,Female,Clothing,150.5,Cash,2023-01-15,5
+TXN-1070,CUST-120,25,Male,Unknown,1200.0,Credit Card,2023-01-15,3
+TXN-1071,CUST-101,30,Male,Electronics,89.99,Unknown,2023-01-15,3
+TXN-1072,CUST-119,25,Female,Electronics,1200.0,Unknown,2023-01-15,3
+TXN-1073,CUST-127,25,Male,Electronics,150.5,Paypal,2023-01-15,2
+TXN-1074,CUST-114,34,Female,Electronics,299.99,Unknown,2023-01-15,3
+TXN-1075,CUST-127,34,Unknown,Electronics,150.5,Unknown,2023-03-10,4
+TXN-1076,CUST-106,30,Female,Clothing,299.99,Unknown,2023-01-15,1
+TXN-1077,CUST-111,30,Male,Clothing,45.0,Unknown,2023-01-15,5
+TXN-1078,CUST-128,52,Unknown,Clothing,299.99,Credit Card,2023-01-15,2
+TXN-1079,CUST-107,25,Female,Unknown,299.99,Credit Card,2023-03-10,1
+TXN-1080,CUST-114,25,Unknown,Electronics,150.5,Paypal,2023-01-15,2
+TXN-1081,CUST-102,45,Female,Electronics,150.5,Credit Card,2023-03-10,3
+TXN-1082,CUST-113,34,Male,Clothing,150.5,Unknown,2023-01-15,3
+TXN-1083,CUST-116,52,Female,Electronics,1200.0,Credit Card,2023-02-20,3
+TXN-1084,CUST-103,30,Female,Clothing,45.0,Credit Card,2023-01-15,5
+TXN-1085,CUST-117,30,Female,Clothing,150.5,Paypal,2023-01-15,3
+TXN-1086,CUST-107,19,Male,Electronics,150.5,Unknown,2023-01-15,1
+TXN-1087,CUST-103,30,Male,Electronics,1200.0,Unknown,2023-03-10,3
+TXN-1088,CUST-101,30,Male,Clothing,150.5,Cash,2023-01-15,3
+TXN-1089,CUST-129,25,Male,Electronics,150.5,Credit Card,2023-01-15,3
+TXN-1090,CUST-105,30,Unknown,Electronics,89.99,Credit Card,2023-01-15,1
+TXN-1091,CUST-121,30,Female,Clothing,89.99,Credit Card,2023-03-10,1
+TXN-1092,CUST-109,52,Female,Electronics,150.5,Cash,2023-02-20,1
+TXN-1093,CUST-103,19,Female,Electronics,150.5,Credit Card,2023-01-15,1
+TXN-1094,CUST-121,34,Male,Clothing,150.5,Credit Card,2023-01-15,3
+TXN-1095,CUST-128,30,Female,Clothing,150.5,Credit Card,2023-01-15,3
+TXN-1096,CUST-117,30,Male,Electronics,1200.0,Paypal,2023-01-15,2
+TXN-1097,CUST-125,25,Female,Electronics,150.5,Paypal,2023-03-10,3
+TXN-1098,CUST-111,30,Female,Electronics,89.99,Credit Card,2023-01-15,5
+TXN-1099,CUST-101,30,Female,Electronics,45.0,Cash,2023-01-15,3
+TXN-1100,CUST-109,45,Male,Electronics,150.5,Credit Card,2023-02-20,3
+TXN-1101,CUST-129,19,Female,Clothing,150.5,Cash,2023-02-20,3
+TXN-1102,CUST-103,19,Female,Clothing,1200.0,Unknown,2023-01-15,3
+TXN-1103,CUST-113,45,Female,Clothing,89.99,Paypal,2023-01-15,3
+TXN-1104,CUST-115,45,Male,Clothing,45.0,Credit Card,2023-01-15,3
+TXN-1105,CUST-114,45,Unknown,Unknown,299.99,Credit Card,2023-01-15,3
+TXN-1106,CUST-107,19,Unknown,Home & Kitchen,299.99,Unknown,2023-01-15,3
+TXN-1107,CUST-113,30,Female,Electronics,45.0,Unknown,2023-01-15,2
+TXN-1108,CUST-122,19,Male,Clothing,89.99,Credit Card,2023-01-15,4
+TXN-1109,CUST-127,30,Female,Electronics,1200.0,Paypal,2023-01-15,3
+TXN-1110,CUST-124,25,Female,Electronics,45.0,Paypal,2023-01-15,3
+TXN-1111,CUST-129,30,Female,Electronics,150.5,Cash,2023-01-15,5
+TXN-1112,CUST-107,30,Unknown,Unknown,150.5,Credit Card,2023-03-10,1
+TXN-1113,CUST-120,34,Male,Electronics,299.99,Credit Card,2023-01-15,4
+TXN-1114,CUST-115,30,Male,Electronics,150.5,Credit Card,2023-02-20,3
+TXN-1115,CUST-112,25,Female,Clothing,1200.0,Credit Card,2023-01-15,3
+TXN-1116,CUST-117,30,Unknown,Electronics,299.99,Paypal,2023-01-15,3
+TXN-1117,CUST-114,30,Female,Electronics,150.5,Paypal,2023-01-15,4
+TXN-1118,CUST-120,34,Unknown,Electronics,150.5,Credit Card,2023-01-15,5
+TXN-1119,CUST-123,30,Female,Home & Kitchen,150.5,Cash,2023-02-20,3
+TXN-1120,CUST-125,45,Female,Electronics,89.99,Credit Card,2023-02-20,1
+TXN-1121,CUST-124,30,Unknown,Electronics,150.5,Credit Card,2023-01-15,1
+TXN-1122,CUST-127,30,Male,Electronics,89.99,Cash,2023-03-10,5
+TXN-1123,CUST-127,19,Female,Unknown,150.5,Credit Card,2023-01-15,5
+TXN-1124,CUST-127,25,Female,Clothing,45.0,Paypal,2023-01-15,3
+TXN-1125,CUST-112,34,Unknown,Electronics,150.5,Credit Card,2023-03-10,3
+TXN-1126,CUST-108,25,Unknown,Clothing,150.5,Unknown,2023-03-10,1
+TXN-1127,CUST-128,52,Male,Electronics,1200.0,Unknown,2023-02-20,3
+TXN-1128,CUST-114,52,Female,Clothing,150.5,Cash,2023-03-10,4
+TXN-1129,CUST-112,30,Female,Electronics,89.99,Credit Card,2023-01-15,3
+TXN-1130,CUST-100,30,Male,Clothing,150.5,Credit Card,2023-01-15,2
+TXN-1131,CUST-124,30,Female,Clothing,150.5,Credit Card,2023-01-15,2
+TXN-1132,CUST-106,45,Female,Electronics,150.5,Credit Card,2023-01-15,5
+TXN-1133,CUST-108,45,Female,Clothing,150.5,Cash,2023-01-15,3
+TXN-1134,CUST-123,45,Female,Clothing,1200.0,Cash,2023-02-20,2
+TXN-1135,CUST-100,19,Female,Electronics,150.5,Unknown,2023-01-15,1
+TXN-1136,CUST-111,30,Female,Clothing,1200.0,Credit Card,2023-01-15,3
+TXN-1137,CUST-107,30,Unknown,Electronics,299.99,Unknown,2023-01-15,3
+TXN-1138,CUST-123,30,Female,Clothing,150.5,Credit Card,2023-02-20,5
+TXN-1139,CUST-110,25,Female,Electronics,150.5,Unknown,2023-01-15,3
+TXN-1140,CUST-118,30,Unknown,Electronics,150.5,Paypal,2023-02-20,3
+TXN-1141,CUST-116,19,Male,Electronics,150.5,Paypal,2023-01-15,4
+TXN-1142,CUST-107,25,Female,Electronics,89.99,Paypal,2023-03-10,5
+TXN-1143,CUST-102,30,Female,Clothing,150.5,Paypal,2023-01-15,4
+TXN-1144,CUST-102,19,Female,Electronics,1200.0,Credit Card,2023-01-15,3
+TXN-1145,CUST-100,30,Female,Electronics,150.5,Paypal,2023-01-15,5
+TXN-1146,CUST-126,30,Female,Unknown,45.0,Cash,2023-01-15,5
+TXN-1147,CUST-104,19,Unknown,Unknown,150.5,Cash,2023-03-10,5
+TXN-1148,CUST-109,45,Male,Home & Kitchen,150.5,Credit Card,2023-02-20,3
+TXN-1149,CUST-106,30,Male,Clothing,150.5,Paypal,2023-03-10,4
