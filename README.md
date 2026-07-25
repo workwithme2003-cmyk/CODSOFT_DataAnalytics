@@ -123,13 +123,4 @@ To launch the interactive dashboard in your web browser:
 streamlit run Task_3_Data_Visualization/dashboard_app.py
 ```
 
----
 
-## 📲 LinkedIn Video Submission Guidelines
-When sharing your project demonstration video on LinkedIn:
-- **Hashtags**: `#codsoft` `#internship` `#dataanalytics` `#python` `#machinelearning`
-- **Tag**: Mention **@CodSoft** in your post.
-- **Repository Link**: Include the link to this GitHub repository.
-
----
-*Created as part of the CodSoft Virtual Internship Program.*
