@@ -1,6 +1,8 @@
 # CodSoft Data Analytics Internship Repository
 
-> 📘 **Master Project Documentation**: For an in-depth, exhaustive breakdown of every task, requirement, implementation method, and statistical achievement, read the [PROJECT_COMPREHENSIVE_REPORT.md](file:///c:/Projects/Codesoft/PROJECT_COMPREHENSIVE_REPORT.md).
+> 🌐 **Live Interactive Web Dashboard**: [Experience the Live Streamlit Dashboard App Online](https://codsoftdataanalytics-9hdq5qriwhvnaqypc35pp.streamlit.app)
+> 
+> 📘 **Master Project Documentation**: For an in-depth, exhaustive breakdown of every task, requirement, implementation method, and statistical achievement, read the [PROJECT_COMPREHENSIVE_REPORT.md](PROJECT_COMPREHENSIVE_REPORT.md).
 
 Welcome to my official submission repository for the **CodSoft Data Analytics Virtual Internship**. This repository contains complete implementations of all **5 Data Analytics Tasks**, including Python scripts, clean/processed datasets, statistical reports, publication-ready data visualizations, customer segmentation models, web scrapers, and an interactive Streamlit dashboard.
 

@@ -71,6 +71,8 @@ This document serves as the **Master Comprehensive Report** for the **CodSoft Da
 
 ### 📈 TASK 3: DATA VISUALIZATION DASHBOARD
 
+- 🌐 **Live Interactive Web App**: [https://codsoftdataanalytics-9hdq5qriwhvnaqypc35pp.streamlit.app](https://codsoftdataanalytics-9hdq5qriwhvnaqypc35pp.streamlit.app)
+
 #### 1. What We Needed
 - Design static publication-grade visualizations (bar, line, pie, scatter, histograms) and build an interactive web dashboard.
 
