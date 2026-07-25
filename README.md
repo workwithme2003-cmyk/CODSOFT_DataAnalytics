@@ -1,6 +1,6 @@
 # CodSoft Data Analytics Internship Repository
 
-> 🌐 **Live Interactive Web Dashboard**: [Experience the Live Streamlit Dashboard App Online](https://codsoftdataanalytics-9hdq5qriwhvnaqypc35pp.streamlit.app)
+> 🌐 **Live Interactive Web Dashboard**: [Experience the Live Streamlit Dashboard App Online](https://codsoftdataanalytics-9hdq5q9riwhvnaqypc35pp.streamlit.app/)
 > 
 > 📘 **Master Project Documentation**: For an in-depth, exhaustive breakdown of every task, requirement, implementation method, and statistical achievement, read the [PROJECT_COMPREHENSIVE_REPORT.md](PROJECT_COMPREHENSIVE_REPORT.md).
 
