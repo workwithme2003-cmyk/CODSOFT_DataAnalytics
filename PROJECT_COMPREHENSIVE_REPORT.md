@@ -204,6 +204,6 @@ python Task_5_Web_Data_Extraction/scraper_analysis.py
 
 ## 📢 Submission Checklist
 
-1. **GitHub Repository**: Push `c:\Projects\Codesoft` to GitHub.
+1. **GitHub Repository**: ✅ **COMPLETED** — Live at [https://github.com/workwithme2003-cmyk/CODSOFT_DataAnalytics](https://github.com/workwithme2003-cmyk/CODSOFT_DataAnalytics).
 2. **LinkedIn Video Demo**: Record a 1-2 minute video of the running Streamlit dashboard (`streamlit run Task_3_Data_Visualization/dashboard_app.py`) and code. Post on LinkedIn with `@codsoft` and `#codsoft #cip #dataanalytics`.
 3. **Task Submission Form**: Fill the official CodSoft form ([forms.gle/RGRHmH7LBKUGWrfb6](https://forms.gle/RGRHmH7LBKUGWrfb6)) between **August 11 and August 25, 2026**.
