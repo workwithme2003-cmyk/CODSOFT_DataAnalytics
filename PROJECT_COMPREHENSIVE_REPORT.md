@@ -71,8 +71,7 @@ This document serves as the **Master Comprehensive Report** for the **CodSoft Da
 
 ### 📈 TASK 3: DATA VISUALIZATION DASHBOARD
 
-- 📊 **Live Streamlit App**: [https://share.streamlit.io/workwithme2003-cmyk/codsoft_dataanalytics/main/Task_3_Data_Visualization/dashboard_app.py](https://share.streamlit.io/workwithme2003-cmyk/codsoft_dataanalytics/main/Task_3_Data_Visualization/dashboard_app.py)
-- 🌐 **Live GitHub Pages Web App**: [https://workwithme2003-cmyk.github.io/CODSOFT_DataAnalytics/](https://workwithme2003-cmyk.github.io/CODSOFT_DataAnalytics/)
+- 🌐 **Live Interactive Web App**: [https://raw.githack.com/workwithme2003-cmyk/CODSOFT_DataAnalytics/main/index.html](https://raw.githack.com/workwithme2003-cmyk/CODSOFT_DataAnalytics/main/index.html)
 
 #### 1. What We Needed
 - Design static publication-grade visualizations (bar, line, pie, scatter, histograms) and build an interactive web dashboard.

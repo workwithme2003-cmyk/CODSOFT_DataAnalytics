@@ -1,8 +1,6 @@
 # CodSoft Data Analytics Internship Repository
 
-> 📊 **Live Streamlit Dashboard App**: [Open Streamlit Dashboard App Online](https://share.streamlit.io/workwithme2003-cmyk/codsoft_dataanalytics/main/Task_3_Data_Visualization/dashboard_app.py)
-> 
-> 🌐 **Live GitHub Pages Web Dashboard**: [Experience the Interactive Web Dashboard](https://workwithme2003-cmyk.github.io/CODSOFT_DataAnalytics/)
+> 🌐 **Live Interactive Web Dashboard**: [Experience the Live Web Dashboard Online](https://raw.githack.com/workwithme2003-cmyk/CODSOFT_DataAnalytics/main/index.html)
 > 
 > 📘 **Master Project Documentation**: Read the exhaustive breakdown in [PROJECT_COMPREHENSIVE_REPORT.md](PROJECT_COMPREHENSIVE_REPORT.md).
 
